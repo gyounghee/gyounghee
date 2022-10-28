@@ -1,4 +1,4 @@
-## 💻 Python과 DATA를 좋아하는 Coding하는 경희
+## 💻 Python과 DATA를 좋아하는 코딩하는 경희
 
 ## ✨ Main Stack 
 
